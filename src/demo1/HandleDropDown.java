@@ -26,6 +26,7 @@ public class HandleDropDown {
 		
 		Select select2=new select(year);
 		select2.selectByVisibleText("1991");
+		System.out.println("Hello");
 	}
 
 }
